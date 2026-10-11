@@ -1,2 +1,1 @@
-# app-ads.txt for Neutro Apps
-# The AdMob line will be added here once the AdMob account is created.
+   google.com, pub-6210348303762252, DIRECT, f08c47fec0942fa0
